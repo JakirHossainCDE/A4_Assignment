@@ -120,6 +120,7 @@ else:
     print("\nCannot create map: Either street network or POIs data is missing or empty.")
 
 print("\n--- Folium Map Visualization Complete ---")
+```
 
-✅ Conclusion
+## ✅ Conclusion
 This notebook successfully demonstrates a modular approach to geospatial data acquisition and visualization using OSMnx and Folium.
